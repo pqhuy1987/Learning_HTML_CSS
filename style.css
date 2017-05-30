@@ -1,3 +1,4 @@
-p{
-	color: blue;
+#Menu ul ul > p {
+	background: red;
+	color: white;
 }
